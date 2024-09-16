@@ -1,10 +1,5 @@
 # Lista de questões (avançadas) sobre JavaScript
 
-Posto questões de múltipla escolha sobre JavaScript no meu [Instagram](https://www.instagram.com/theavocoder), as quais também posto aqui!
-
-Do básico ao avançado: Teste quão bem você conhece o JavaScript, refresque um pouco do seu conhecimento, ou se prepare para uma entrevista! :muscle: :rocket: Eu atualizo esse repositório semanalmente com novas questões.
-
-
 ---
 
 ###### 1. Qual o resultado?
